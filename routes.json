@@ -28,3 +28,17 @@
     "color": "#909399"
   }
 ]
+{
+    "name": "线路 6：熊猫解析",
+    "desc": "专攻小红书，支持图片/视频/文案",
+    "url": "https://dlpanda.com/zh-CN/xiaohongshu",
+    "tag": "小红书",
+    "color": "#ff2442"
+  },
+  {
+    "name": "线路 7：VideoFK",
+    "desc": "备用线路，解析速度快",
+    "url": "https://www.videofk.com/xiaohongshu-video-download",
+    "tag": "小红书",
+    "color": "#ff2442"
+  }
