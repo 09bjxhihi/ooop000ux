@@ -1,51 +1,44 @@
 [
   {
-    "name": "线路 1：SnapAny",
-    "desc": "【推荐】界面干净，支持抖音/快手/小红书",
+    "name": "线路 1：Cobalt",
+    "desc": "【神级】开源/无广告/极简，支持B站/抖音/推特/油管等全平台",
+    "url": "https://cobalt.tools/",
+    "tag": "强烈推荐",
+    "color": "#4c51bf"
+  },
+  {
+    "name": "线路 2：SnapAny",
+    "desc": "【主力】界面干净，解析成功率高，支持国内主流平台",
     "url": "https://snapany.com/zh",
     "tag": "通用",
     "color": "#007aff"
   },
   {
-    "name": "线路 2：微去水印",
-    "desc": "【极速】国内秒开，界面极其干净，支持抖音/快手",
-    "url": "https://weiqu.cc/",
-    "tag": "推荐",
-    "color": "#007aff"
-  },
-  {
-    "name": "线路 3：iiiLab工具",
-    "desc": "【专业】支持B站/微博/公众号/Youtube，解析能力最强",
-    "url": "https://iiilab.com/tools/download",
-    "tag": "全能",
-    "color": "#ff9900"
-  },
-  {
-    "name": "线路 4：提取网",
-    "desc": "老牌站点，支持平台多，操作简单",
-    "url": "https://tiqu.cc/",
-    "tag": "通用",
-    "color": "#4cd964"
-  },
-  {
-    "name": "线路 5：熊猫解析",
-    "desc": "专攻小红书，支持图集/视频/文案下载",
+    "name": "线路 3：熊猫解析",
+    "desc": "【小红书】专攻小红书，支持图集/视频/文案下载",
     "url": "https://dlpanda.com/zh-CN/xiaohongshu",
     "tag": "小红书",
     "color": "#ff2442"
   },
   {
-    "name": "线路 6：爱去水印",
-    "desc": "备用线路，支持批量解析",
-    "url": "https://www.27sy.com/",
+    "name": "线路 4：VideoFK",
+    "desc": "【老牌】备用线路，如果上面都挂了用这个，支持平台多",
+    "url": "https://www.videofk.com/",
     "tag": "备用",
-    "color": "#909399"
+    "color": "#e60023"
   },
   {
-    "name": "线路 7：SnapAny",
-    "desc": "万能解析，如果国内访问慢请切换上面线路",
-    "url": "https://snapany.com/zh",
-    "tag": "海外",
-    "color": "#9c27b0"
+    "name": "线路 5：TikMate",
+    "desc": "【抖音】专攻抖音和TikTok，解析速度快",
+    "url": "https://tikmate.online/?lang=zh",
+    "tag": "抖音",
+    "color": "#4cd964"
+  },
+  {
+    "name": "线路 6：PasteDownload",
+    "desc": "【海外】万能解析，支持全球500+网站",
+    "url": "https://pastedownload.com/zh/",
+    "tag": "全能",
+    "color": "#f0ad4e"
   }
 ]
