@@ -7,45 +7,45 @@
     "color": "#007aff"
   },
   {
-    "name": "线路 2：TikMate",
-    "desc": "解析速度快，专攻抖音/TikTok",
-    "url": "https://tikmate.online/?lang=zh",
-    "tag": "抖音",
+    "name": "线路 2：微去水印",
+    "desc": "【极速】国内秒开，界面极其干净，支持抖音/快手",
+    "url": "https://weiqu.cc/",
+    "tag": "推荐",
+    "color": "#007aff"
+  },
+  {
+    "name": "线路 3：iiiLab工具",
+    "desc": "【专业】支持B站/微博/公众号/Youtube，解析能力最强",
+    "url": "https://iiilab.com/tools/download",
+    "tag": "全能",
+    "color": "#ff9900"
+  },
+  {
+    "name": "线路 4：提取网",
+    "desc": "老牌站点，支持平台多，操作简单",
+    "url": "https://tiqu.cc/",
+    "tag": "通用",
     "color": "#4cd964"
   },
   {
-    "name": "线路 3：GoDownloader",
-    "desc": "老牌解析站，支持平台极多",
-    "url": "https://godownloader.com/zh",
-    "tag": "全能",
-    "color": "#f0ad4e"
-  },
-  {
-    "name": "线路 4：Douyin.wtf",
-    "desc": "备用线路，如果上面都挂了用这个",
-    "url": "https://www.douyin.wtf/",
-    "tag": "备用",
-    "color": "#909399"
-  },
-  {
-    "name": "线路 5：SnapInsta",
-    "desc": "专攻 Instagram / Youtube",
-    "url": "https://snapinsta.app/",
-    "tag": "海外",
-    "color": "#9c27b0"
-  },
-  {
-    "name": "线路 6：熊猫解析",
-    "desc": "专攻小红书，支持图片/视频/文案",
+    "name": "线路 5：熊猫解析",
+    "desc": "专攻小红书，支持图集/视频/文案下载",
     "url": "https://dlpanda.com/zh-CN/xiaohongshu",
     "tag": "小红书",
     "color": "#ff2442"
   },
   {
-    "name": "线路 7：VideoFK",
-    "desc": "备用线路，解析速度快",
-    "url": "https://www.videofk.com/xiaohongshu-video-download",
-    "tag": "小红书",
-    "color": "#ff2442"
+    "name": "线路 6：爱去水印",
+    "desc": "备用线路，支持批量解析",
+    "url": "https://www.27sy.com/",
+    "tag": "备用",
+    "color": "#909399"
+  },
+  {
+    "name": "线路 7：SnapAny",
+    "desc": "万能解析，如果国内访问慢请切换上面线路",
+    "url": "https://snapany.com/zh",
+    "tag": "海外",
+    "color": "#9c27b0"
   }
 ]
