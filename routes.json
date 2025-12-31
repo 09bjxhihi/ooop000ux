@@ -27,7 +27,14 @@
     "tag": "备用",
     "color": "#909399"
   },
-{
+  {
+    "name": "线路 5：SnapInsta",
+    "desc": "专攻 Instagram / Youtube",
+    "url": "https://snapinsta.app/",
+    "tag": "海外",
+    "color": "#9c27b0"
+  },
+  {
     "name": "线路 6：熊猫解析",
     "desc": "专攻小红书，支持图片/视频/文案",
     "url": "https://dlpanda.com/zh-CN/xiaohongshu",
@@ -41,3 +48,4 @@
     "tag": "小红书",
     "color": "#ff2442"
   }
+]
